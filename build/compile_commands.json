@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/josiahzacharias/Documents/School/UW Graduate/CSS 587/Program 1/build",
+  "command": "/usr/bin/clang++  -I/usr/local/include/opencv4 -g -std=gnu++17 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -o CMakeFiles/program1.dir/Program1.cpp.o -c \"/Users/josiahzacharias/Documents/School/UW Graduate/CSS 587/Program 1/Program1.cpp\"",
+  "file": "/Users/josiahzacharias/Documents/School/UW Graduate/CSS 587/Program 1/Program1.cpp",
+  "output": "CMakeFiles/program1.dir/Program1.cpp.o"
+}
+]
