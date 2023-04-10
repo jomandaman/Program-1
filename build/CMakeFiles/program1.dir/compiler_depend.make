@@ -270,8 +270,11 @@ CMakeFiles/program1.dir/Program1.cpp.o: /Users/josiahzacharias/Documents/School/
   /usr/local/include/opencv4/opencv2/imgcodecs.hpp \
   /usr/local/include/opencv4/opencv2/videoio.hpp \
   /usr/local/include/opencv4/opencv2/imgproc.hpp \
-  /usr/local/include/opencv4/opencv2/imgproc/segmentation.hpp
+  /usr/local/include/opencv4/opencv2/imgproc/segmentation.hpp \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk/usr/include/c++/v1/iostream
 
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk/usr/include/c++/v1/iostream:
 
 /usr/local/include/opencv4/opencv2/imgproc.hpp:
 
